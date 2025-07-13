@@ -2,7 +2,7 @@
 
 VerseVM is a virtual machine software for Pterodactyl.
 
-git clone https://github.com/zenllc/VerseVM.git
+git clone https://github.com/DemonZDev/VerseVM.git
 
 cd VerseVM
 
